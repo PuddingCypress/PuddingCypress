@@ -27,7 +27,17 @@ ENFP · 像柏树一样自由生长 ✨
 - 🔍 Detective Game
 - 📝 Coding Notes & Tutorials
 - 📖 Personal Novel Writing
+# 🌟 GitHub 统计
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PuddingCypress&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PuddingCypress&layout=compact&theme=radical)
 
+# 🚀 我的技能栈
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+---
 ## 🌐 找到我
 - Bilibili: [3546811608336574](https://space.bilibili.com/3546811608336574)
 - Xiaohongshu: 布丁不爱debug
